@@ -153,7 +153,7 @@ for c in sp:
 
 # In[26]:
 
-
+'''
 from IPython.display import display
 #import ipywidgets 
 rButtons1 = RadioButtons(
@@ -172,7 +172,7 @@ display(rButtons1)
 
 
 # In[ ]:
-
+'''
 
 
 
