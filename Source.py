@@ -155,7 +155,7 @@ for c in sp:
 
 
 from IPython.display import display
-import ipywidgets 
+#import ipywidgets 
 rButtons1 = RadioButtons(
     options=['Группа целых чисел', 'Симметрическая группа'],
    # value='Группа целых чисел', # Выбор по умолчанию
